@@ -15,4 +15,3 @@ if texte:
     resultat = nlp(texte)
     st.write(resultat)
 
-print(resultat)
